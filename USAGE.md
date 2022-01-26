@@ -3,7 +3,7 @@
 ## Installation
 1. Clone project locally
 ```bash
-$ git clone https://github.com/jselim1011/tfdemo_gcp.git && cd tfdemo_gcp
+$ git clone https://github.com/jselim1011/tfgcp_demo.git && cd tfgcp_demo
 ```
 
 2. Install **Terraform**
